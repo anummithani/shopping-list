@@ -1,3 +1,5 @@
 - ice cream
 - chocolate sauce
 - sprinkles
+- whipped cream
+- cherries
